@@ -1,0 +1,35 @@
+[
+    {
+        "id": "01",
+        "name": "Animal Health"
+    },
+    {
+        "id": "02",
+        "name": "Farm Business Management"
+    },
+    {
+        "id": "03",
+        "name": "Farm Management Information"
+    },
+    {
+        "id": "04",
+        "name": "Pasture Management"
+    },
+    {
+        "id": "05",
+        "name": "Fodder Management"
+    },
+    {
+        "id": "06",
+        "name": "Diseases, Pests & Weeds"
+    },
+    {
+        "id": "07",
+        "name": "Cow Feeding"
+    },
+    {
+        "id": "08",
+        "name": "Dairy Farm Management"
+    }
+
+]
